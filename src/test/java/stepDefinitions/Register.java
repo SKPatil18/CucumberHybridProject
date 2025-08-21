@@ -17,6 +17,10 @@ public class Register {
 	HomePage homePage;
 	RegisterPage registerPage;
 	
+	
+//	added comment
+
+	
 	@Given("User navigates to register account page")
 	public void user_navigates_to_register_account_page() {
 		driver = DriverFactory.getDriver();
