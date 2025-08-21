@@ -23,7 +23,7 @@ public class Login {
 	
 //	added comment
 
-	
+//	this is a test login method
 	@Given("User has navigated to login page")
 	public void User_has_navigated_to_login_page() {
 		driver = DriverFactory.getDriver();
