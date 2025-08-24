@@ -9,6 +9,7 @@ import utils.CommonUtils;
 import utils.ElementUtils;
 
 public class AccountPage {
+//	Added Comment in Account Page
 	WebDriver driver;
 	private ElementUtils elementUtils;
 	
